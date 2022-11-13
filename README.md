@@ -1,2 +1,2 @@
 # emogi-finder-mark-8
-Created with CodeSandbox
+oh boy is and emogi finder to match and find wht the emogi actually means.
